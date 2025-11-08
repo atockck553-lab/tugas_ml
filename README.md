@@ -10,3 +10,6 @@ Anggota Kelompok:
 URL:
 Front-end: http://localhost:5173/
 Back-end: http://127.0.0.1:8000/
+
+LINK ONEDRIVE:
+https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221113837_students_mikroskil_ac_id/EnHXwSzMX8tJr5mKqV2DBjwBktfDUCyfhlj_Dy2VEXoMSw?e=UxcK4e
