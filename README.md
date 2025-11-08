@@ -13,3 +13,6 @@ Back-end: http://127.0.0.1:8000/
 
 LINK ONEDRIVE:
 https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221113837_students_mikroskil_ac_id/EnHXwSzMX8tJr5mKqV2DBjwBktfDUCyfhlj_Dy2VEXoMSw?e=UxcK4e
+
+LINK WORKFLOW N8N:
+https://email.info.n8n.io/e/c/eyJlbWFpbF9pZCI6ImRnU2kyZ1VCQU96aTVRTHI0dVVDQVpwaDlaMmN3T0h3MkJLVFV2V1pmQT09IiwiaHJlZiI6Imh0dHBzOi8vY2VsbGl4cy5hcHAubjhuLmNsb3VkIiwiaW50ZXJuYWwiOiJhMmRhMDVjMzAxZGI1YmVjZTJlNTAyIiwibGlua19pZCI6N30/80cdd6432452176b61f5c99ad6ee0b1ebd984851d84f58ba0e3d436478e4a868
