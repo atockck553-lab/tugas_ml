@@ -1,4 +1,4 @@
-# tugas_ml
+Membangun sistem otomatis yang mampu menganalisis konten video YouTube secara efisien dengan memanfaatkan Google Sheets, n8n, dan Large Language Model (LLM).
 
 Deskripsi Singkat
 Proyek ini adalah aplikasi web untuk menganalisis video secara otomatis menggunakan teknologi AI. Backend menggunakan FastAPI untuk menerima URL video, melakukan analisis sederhana (summary, durasi, keyword), lalu mengirim hasilnya ke webhook n8n untuk proses lebih lanjut. Frontend dibuat dengan React dan Tailwind CSS untuk upload video dan menampilkan hasil analisis.
