@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+# optional (real AI):
+ultralytics        # YOLOv8 (pip install ultralytics)
+opencv-python      # untuk ekstrak frame
+whisper            # OpenAI Whisper (pip install -U openai-whisper)
+torch              # jika diperlukan oleh ultralytics/whisper (follow recommended install for your GPU/CPU)
